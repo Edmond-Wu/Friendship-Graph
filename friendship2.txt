@@ -1,0 +1,13 @@
+6
+sara|y|rutgers
+sam|y|rutgers
+jean|y|rutgers
+ajay|y|rutgers
+mira|y|rutgers
+jane|y|rutgers
+sara|sam
+sam|jean
+jean|ajay
+ajay|mira
+mira|jane
+jane|sara
